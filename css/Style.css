@@ -1,0 +1,317 @@
+/* ------------------------------top div----------------------------------------- */
+.top {
+    display: block;
+    background-color:#E0EBE8;
+    position: relative;
+    height: 180px;
+    margin-top: -9px;
+}
+img
+{
+  position: relative;
+  left:200px ;
+  border-radius: 50%;
+  margin-top: 20px;
+  
+}
+.atag
+{
+    position: relative;
+     left:800px ;
+     bottom: 40px;
+    
+     font-size: 120%;
+     color: rgb(33, 86 ,75);
+     font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+.btag
+{
+    position: relative;
+     left:820px ;
+     bottom: 40px;
+     
+     font-size: 120%;
+     color: rgb(33, 86 ,75) ;
+     font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+.ctag
+{
+    position: relative;
+     left:840px ;
+     bottom: 40px;
+     
+     font-size: 120%;
+     color: rgb(33, 86 ,75);
+     font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+.dtag
+{
+    position: relative;
+     left:860px ;
+     bottom: 40px;
+     
+     font-size: 120%;
+     color: rgb(33, 86 ,75);
+     font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+ .left-cloud
+{
+    left: 1000px;
+    bottom: 250px;
+}
+ .right-cloud
+{
+    right: 40px;
+    bottom: 180px;
+}
+.land
+{
+    margin-left: 20px;
+}
+
+h1
+{
+
+    text-align: center;
+    color:#2fc4b2;
+    font-size: 70px;
+    font-family: Brush Script MT,cursive; 
+}
+
+p{
+     text-align: center;
+     color: #45b29a;
+     font-size: 20px;
+}
+
+
+.profile {
+    width: 160px;
+    height: 170px;
+    position: relative;
+    left: 630px;
+    bottom: 10px;
+}
+
+#bottom 
+h1
+{
+ 
+
+    text-align: center;
+    color:#2fc4b2;
+    font-size: 50px;
+    font-family: Brush Script MT,cursive;    
+}
+.profile1 {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 500px;
+    bottom: 150px;
+}
+.profile2{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 900px;
+    bottom: 150px;
+}
+
+
+    
+.msg {
+    color: #5b5656;
+    position: absolute;
+    top: 132rem;
+    right: 43%;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1em;
+    text-align: center;
+    background: #f9b384;
+    padding: 1em 2em 1em 2.5em;
+    text-decoration: none;
+    margin: 1.5em 0 0;
+    border-radius: 3px;
+    font-weight: 400;
+    border: 0;
+    text-transform: uppercase;
+}
+
+.fa {
+    padding-right: 9px;
+}
+/* ------------------------------Foot div----------------------------------------- */
+.foot {
+    display: block;
+    background-color: #c3edea;
+    position: relative;
+    height: 180px;
+}
+
+.socialmedia {
+    position: relative;
+    right: 45px;
+    top: 50px;
+    color: #007892;
+    text-decoration: none;
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: larger;
+}
+.socialmedia1 {
+    position: relative;
+    right: 45px;
+    top: 60px;
+    color: #007892;
+    text-decoration: none;
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: larger;
+}
+.left-cloud1
+{
+    left: 1000px;
+    bottom: 330px;
+}
+.right-cloud1
+{
+    right: 1000px;
+    bottom: 330px;
+}
+.left-flag1
+{
+    left: 550px;
+    bottom: 150px;
+}
+.right-flag1
+{
+    right:600em;
+    bottom: 150px;
+}
+
+
+.pencil
+{
+
+   margin-left: 470px ;
+  
+
+}
+
+
+.center {
+    color:black;
+    position: absolute;
+    right: 42%;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1em;
+    text-align: center;
+    background:#80bdab;
+    padding: 1em 2em 1em 2.5em;
+    text-decoration: none;
+    margin: 1.5em 0 0;
+    border-radius: 3px;
+    font-weight: 400;
+    border: 0;
+    text-transform: uppercase;
+}
+
+.emp
+{
+    margin-left: 130px ;
+  
+}
+.cont{
+    color: #5b5656;
+    position: absolute;
+    top: 575rem;
+    right: 43%;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1em;
+    text-align: center;
+    background: #f9b384;
+    padding: 1em 2em 1em 2.5em;
+    text-decoration: none;
+    margin: 1.5em 0 0;
+    border-radius: 3px;
+    font-weight: 400;
+    border: 0;
+    text-transform: uppercase;
+}
+.contact {
+    color: #5b5656;
+    position: absolute;
+    top: 130rem;
+    right: 43%;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1em;
+    text-align: center;
+    background: #f9b384;
+    padding: 1em 2em 1em 2.5em;
+    text-decoration: none;
+    margin: 1.5em 0 0;
+    border-radius: 3px;
+    font-weight: 400;
+    border: 0;
+    text-transform: uppercase;
+}
+     .left-cloud2
+        {
+            left: 1000px;
+            bottom: 350px;
+        }
+        .right-cloud2
+        {
+            right: 1000px;
+            bottom: 350px;
+        }
+        .left-flag2
+        {
+            left: 550px;
+            bottom: 150px;
+        }
+        .right-flag2
+        {
+            right: 600px;
+            bottom: 150px;
+        }
+         .rest
+{
+    margin-left: 130px ;
+  
+}
+.top1 {
+    display: block;
+    background-color:#E0EBE8;
+    position: relative;
+    height: 120px;
+    margin-top: -9px;
+}
+.sub{
+    color: #5b5656;
+    position: absolute;
+    top: 49.5rem;
+    right: 90%;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1em;
+    text-align:right;
+    background: #f9b384;
+    padding: 1em 2em 1em 2.5em;
+    text-decoration: none;
+    margin: 1.5em 0 0;
+    border-radius: 3px;
+    font-weight: 400;
+    border: 0;
+    text-transform: uppercase;
+}
+.mid1
+{
+    
+text-align: left;
+color:black;
+font-size: 1em;font-weight: 300;
+font-family : brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
